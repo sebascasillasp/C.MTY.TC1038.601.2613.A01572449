@@ -1,3 +1,5 @@
+# Sebastián Casillas Portillo
+# A01572449
 # La función es pedir el nombre de la persona saludarla de forma personalizada e indicar cuántas letras tiene su nombre.
 input_name = input('Please enter your name:')
 print('Hello ' + input_name + '!')
