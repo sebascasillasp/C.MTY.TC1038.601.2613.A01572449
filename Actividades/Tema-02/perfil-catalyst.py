@@ -25,4 +25,3 @@ print(f"Materias favoritas: {materias_favoritas}")
 print(f"Habilidades: {habilidades}")
 print(f"Proyecto social: {proyecto_social}")
 print(f"Idiomas: {idiomas}")
-
