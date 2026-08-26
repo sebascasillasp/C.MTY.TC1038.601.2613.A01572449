@@ -26,7 +26,7 @@
 # Entrada es lo que se recibe, proceso lo que se hace y salida el resulatado del proceso.
 
 ¿Hubo alguna expresión de la Actividad 5 donde tu predicción falló por olvidar la precedencia? ¿Qué aprendiste de ese error?
-Sí, en la parte de 2 ** 3 ** 2, me dió un resultado diferente porque lo hice de izquierda a derecha, pero la precedencia indica que se hace de derecha a izquierda.
+Sí, en la parte de el penultimo ejercicio, me dió un resultado diferente porque lo hice de izquierda a derecha, pero la precedencia indica que se hace de derecha a izquierda.
 
 # Cuando Copilot te dio la fórmula, ¿la precedencia ya era correcta o tuviste que corregirla agregando paréntesis?
 # Creo que ya estaba bien, porque no cambié nada.
