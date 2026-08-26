@@ -1,0 +1,11 @@
+# Sebastián Casillas Portillo
+# A01572449
+# Reto de formula real
+
+pi= 3.1416
+
+radio= float(input("¿Cual es el radio del círculo?"))
+area= pi * radio ** 2
+print (f"El área del circulo es {area}")
+
+# La formula usada viene de la fórmula del área del círculo que es pi por radio al cuadrado.
