@@ -4,7 +4,7 @@
 
 num=float(input('Dime un número'))
 
-if (10 <= num <= 20):
+if (10 <= num<=20):
     print(True)
     print('El número esta en el rango')
 else:
