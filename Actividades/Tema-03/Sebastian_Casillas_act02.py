@@ -1,6 +1,6 @@
 # Sebastián Casillas Portillo
 # A01572449
-# Funciones
+# Detective de alcance
 
 def calcular_bono(sueldo):
     bono = sueldo * 0.10
